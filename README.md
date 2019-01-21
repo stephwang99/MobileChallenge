@@ -10,3 +10,4 @@ The folder contains the code I used to run the program. The libraries are not pr
 - http://square.github.io/okhttp/
 
 For testing, download the apk file.
+If the download does not work, here is a google drive link that will direct you to the apk file directly: https://drive.google.com/file/d/1zJYLp-fVnGk0d68LZdTxf4nqVhXCuOs6/view?usp=sharing
